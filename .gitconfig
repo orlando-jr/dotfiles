@@ -1,6 +1,6 @@
 [user]
-	name = Lucas Pélos
-	email = lucas.pelos@gmail.com
+	name = Orlando de Oliveira Campos Junior
+	email = ocamposjunior@hotmail.com
 [alias]
 	ci = commit
 	co = checkout
@@ -12,7 +12,7 @@
 [credential]
 	helper = cache
 [core]
-	excludesfile = /home/lucas/.gitignore
+	excludesfile = /home/ocamposjunior/.gitignore
 [push]
 	default = current
 [color]
